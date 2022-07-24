@@ -32,4 +32,4 @@ k=k+3;
 end
 end
 
-imwrite(nb,['C:\Users\Darren Huang\Desktop\Project\EE_p\Data\DataSet\16hex\',folder,int2str(k),'.bmp']);
+imwrite(,['C:\Users\Darren Huang\Desktop\Project\EE_p\Data\DataSet\16hex\',folder,int2str(k),'.bmp']);
